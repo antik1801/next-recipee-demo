@@ -20,7 +20,7 @@ https://nuxt-course-azure.vercel.app/
 ```
 ## Github Link: 
 ```
-https://github.com/antik1801/Notion-Clone-2.0 
+https://github.com/antik1801/next-recipee-demo
 ```
 
 ## Technology used: 
